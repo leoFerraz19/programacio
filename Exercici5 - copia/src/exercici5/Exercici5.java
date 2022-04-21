@@ -16,6 +16,8 @@ public class Exercici5 {
 	 */
 	public static void main(String[] args) {
 
+            //commit a netbeans
+            
 		float[] tempMitjana = {10, 13, 11, 24, 20, 22, 30, 32, 22, 18, 19, 15, 0};
 
 		if (tempInfMitjana(tempMitjana) > 5) {
